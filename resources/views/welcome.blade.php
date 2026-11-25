@@ -539,6 +539,23 @@
                     <span>Kunjungi GitHub: kaylaartalita15-cloud</span>
                 </a>
             </div>
+
+            <!-- QR Code Card -->
+            <div class="mt-12 pt-10 border-t border-brand-border/60 max-w-sm mx-auto flex flex-col items-center">
+                <div class="p-3 bg-white rounded-3xl shadow-2xl shadow-rose-500/20 mb-4 group hover:scale-105 transition duration-300">
+                    <img src="./images/qrcode_porto.png" alt="Scan QR Portofolio Kayla Artalita" class="w-48 h-48 rounded-2xl">
+                </div>
+                <div class="inline-flex items-center gap-2 text-rose-400 text-xs font-semibold uppercase tracking-wider mb-1">
+                    <i data-lucide="scan-line" class="w-4 h-4"></i>
+                    <span>Scan untuk Buka Web</span>
+                </div>
+                <p class="text-xs text-brand-muted text-center max-w-xs">
+                    Scan barcode di atas lewat kamera HP untuk langsung membuka website portofolio ini secara online.
+                </p>
+                <a href="https://kaylaartalita15-cloud.github.io/porto_kay/" target="_blank" class="mt-2 text-xs font-mono text-slate-300 hover:text-rose-400 underline transition">
+                    kaylaartalita15-cloud.github.io/porto_kay/
+                </a>
+            </div>
         </div>
 
         <div class="flex flex-col sm:flex-row items-center justify-between gap-4 pt-12 text-xs text-brand-muted">
